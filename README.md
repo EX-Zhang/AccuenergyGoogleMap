@@ -50,11 +50,9 @@ The main file includes the html elements, css and js script
 
 Includes the proxies for CORS purpose
 
-### dist/
+## How to use files generate with command "npm run build"
 
-Folder includes all the files after build
-
-All the files in folder dist should be run with a web server software like nginx.
+All the files should be run with a web server software like nginx.
 
 The proxy should be setted like the file vite.config.js for the web server software.
 
